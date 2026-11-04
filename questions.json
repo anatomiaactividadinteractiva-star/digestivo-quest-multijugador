@@ -1,0 +1,651 @@
+[
+  {
+    "c": 0,
+    "title": "Divisiones de la faringe",
+    "type": "arrows",
+    "prompt": "Une con flechas cada estructura con la relación anatómica que le corresponde. Selecciona primero un elemento izquierdo y después su pareja derecha.",
+    "data": [
+      [
+        "Nasofaringe",
+        "Posterior a las cavidades nasales"
+      ],
+      [
+        "Orofaringe",
+        "Posterior a la cavidad oral"
+      ],
+      [
+        "Laringofaringe",
+        "Posterior a la laringe"
+      ]
+    ],
+    "tip": "",
+    "slide": 3
+  },
+  {
+    "c": 0,
+    "title": "Recorrido de la deglución",
+    "type": "order",
+    "prompt": "Ordena el paso del bolo alimenticio.",
+    "data": [
+      "Cavidad oral",
+      "Orofaringe",
+      "Laringofaringe",
+      "Esófago"
+    ],
+    "tip": "",
+    "slide": 3
+  },
+  {
+    "c": 0,
+    "title": "Generalidades",
+    "type": "quiz",
+    "prompt": "Durante una disección se sigue la faringe hasta su continuidad con el esófago. ¿Qué nivel vertebral se utiliza como referencia para esa transición?",
+    "data": [
+      "C6–C7",
+      "T4–T5",
+      "T10",
+      "L1"
+    ],
+    "tip": "",
+    "slide": null
+  },
+  {
+    "c": 0,
+    "title": "Músculos constrictores",
+    "type": "order",
+    "prompt": "Ordena los músculos de superior a inferior.",
+    "data": [
+      "Constrictor superior",
+      "Constrictor medio",
+      "Constrictor inferior"
+    ],
+    "tip": "",
+    "slide": 15,
+    "imageUrl": "/images/0-15.jpg"
+  },
+  {
+    "c": 0,
+    "title": "Inserciones musculares",
+    "type": "arrows",
+    "prompt": "Une con flechas cada estructura con la relación anatómica que le corresponde. Selecciona primero un elemento izquierdo y después su pareja derecha.",
+    "data": [
+      [
+        "Superior",
+        "Tubérculo faríngeo y estructuras mandibulares"
+      ],
+      [
+        "Medio",
+        "Hueso hioides"
+      ],
+      [
+        "Inferior",
+        "Cartílagos tiroides y cricoides"
+      ]
+    ],
+    "tip": "",
+    "slide": 15,
+    "imageUrl": "/images/0-15.jpg"
+  },
+  {
+    "c": 0,
+    "title": "Elevadores de la faringe",
+    "type": "quiz",
+    "prompt": "Un músculo faríngeo eleva la pared durante la deglución y no pertenece al grupo de constrictores. ¿Cuál corresponde?",
+    "data": [
+      "Estilofaríngeo",
+      "Constrictor medio",
+      "Constrictor inferior",
+      "Cricofaríngeo"
+    ],
+    "tip": "",
+    "slide": null
+  },
+  {
+    "c": 0,
+    "title": "Hiatos faríngeos",
+    "type": "arrows",
+    "prompt": "Une con flechas cada estructura con la relación anatómica que le corresponde. Selecciona primero un elemento izquierdo y después su pareja derecha.",
+    "data": [
+      [
+        "Superior",
+        "Nervio glosofaríngeo y estilofaríngeo"
+      ],
+      [
+        "Medio",
+        "Ramo interno del nervio laríngeo superior"
+      ],
+      [
+        "Inferior",
+        "Ramo externo del nervio laríngeo superior"
+      ]
+    ],
+    "tip": "",
+    "slide": 16,
+    "imageUrl": "/images/0-16.jpg"
+  },
+  {
+    "c": 0,
+    "title": "Amígdalas y anillo linfático",
+    "type": "match",
+    "prompt": "Relaciona la amígdala con su región.",
+    "data": [
+      [
+        "Faríngea",
+        "Techo de la nasofaringe"
+      ],
+      [
+        "Tubárica",
+        "Cercanía de la abertura de la tuba auditiva"
+      ],
+      [
+        "Palatina",
+        "Fosa tonsilar entre arcos palatinos"
+      ]
+    ],
+    "tip": "",
+    "slide": 23,
+    "imageUrl": "/images/0-23.jpg"
+  },
+  {
+    "c": 0,
+    "title": "Orofaringe",
+    "type": "quiz",
+    "prompt": "Al explorar la orofaringe desde la cavidad oral, ¿qué estructura establece su límite superior?",
+    "data": [
+      "Velo del paladar",
+      "Borde inferior del cricoides",
+      "Hiato esofágico",
+      "Arco aórtico"
+    ],
+    "tip": "",
+    "slide": null
+  },
+  {
+    "c": 0,
+    "title": "Laringofaringe",
+    "type": "order",
+    "prompt": "Ordena estas referencias desde arriba hacia abajo.",
+    "data": [
+      "Hueso hioides",
+      "Laringofaringe",
+      "Borde inferior del cartílago cricoides"
+    ],
+    "tip": "",
+    "slide": 25,
+    "imageUrl": "/images/0-25.jpg"
+  },
+  {
+    "c": 0,
+    "title": "Constitución de la pared",
+    "type": "match",
+    "prompt": "Relaciona las capas o elementos anatómicos.",
+    "data": [
+      [
+        "Túnica interna",
+        "Mucosa"
+      ],
+      [
+        "Túnica media",
+        "Fascia faringobasilar"
+      ],
+      [
+        "Túnica externa",
+        "Músculos constrictores y elevadores"
+      ]
+    ],
+    "tip": "",
+    "slide": null
+  },
+  {
+    "c": 0,
+    "title": "Funciones faríngeas",
+    "type": "quiz",
+    "prompt": "Un paciente presenta dificultad para deglutir, pero conserva la ventilación nasal. ¿Qué conjunto refleja las funciones normales de la faringe involucradas en esta evaluación?",
+    "data": [
+      "Deglución, respiración y fonación",
+      "Digestión química y absorción de lípidos",
+      "Filtración y secreción renal",
+      "Producción de bilis y almacenamiento"
+    ],
+    "tip": "",
+    "slide": null
+  },
+  {
+    "c": 1,
+    "title": "Origen y terminación",
+    "type": "arrows",
+    "prompt": "Une con flechas cada estructura con la relación anatómica que le corresponde. Selecciona primero un elemento izquierdo y después su pareja derecha.",
+    "data": [
+      [
+        "Origen",
+        "Borde inferior del cartílago cricoides (C6–C7)"
+      ],
+      [
+        "Terminación",
+        "Cardias gástrico"
+      ],
+      [
+        "Travesía diafragmática",
+        "Hiato esofágico a nivel de T10"
+      ]
+    ],
+    "tip": "",
+    "slide": 4,
+    "imageUrl": "/images/1-4.jpg"
+  },
+  {
+    "c": 1,
+    "title": "Trayecto esofágico",
+    "type": "order",
+    "prompt": "Ordena las porciones de superior a inferior.",
+    "data": [
+      "Porción cervical",
+      "Porción torácica",
+      "Travesía diafragmática",
+      "Porción abdominal"
+    ],
+    "tip": "",
+    "slide": 6,
+    "imageUrl": "/images/1-6.jpg"
+  },
+  {
+    "c": 1,
+    "title": "Estrechamientos",
+    "type": "order",
+    "prompt": "Ordena los estrechamientos desde el cuello al abdomen.",
+    "data": [
+      "Cricoideo",
+      "Broncoaórtico",
+      "Diafragmático"
+    ],
+    "tip": "",
+    "slide": 6,
+    "imageUrl": "/images/1-6.jpg"
+  },
+  {
+    "c": 1,
+    "title": "Relaciones cervicales",
+    "type": "arrows",
+    "prompt": "Une con flechas cada estructura con la relación anatómica que le corresponde. Selecciona primero un elemento izquierdo y después su pareja derecha.",
+    "data": [
+      [
+        "Anterior",
+        "Tráquea"
+      ],
+      [
+        "Posterior",
+        "Columna vertebral"
+      ],
+      [
+        "Lateral izquierda",
+        "Arteria carótida común izquierda"
+      ]
+    ],
+    "tip": "",
+    "slide": 10,
+    "imageUrl": "/images/1-10.jpg"
+  },
+  {
+    "c": 1,
+    "title": "Relaciones torácicas",
+    "type": "quiz",
+    "prompt": "En la disección de la porción torácica del esófago se busca una estructura inmediatamente posterior. ¿Cuál se espera identificar?",
+    "data": [
+      "Conducto torácico",
+      "Esternón",
+      "Músculo recto abdominal",
+      "Vejiga urinaria"
+    ],
+    "tip": "",
+    "slide": null
+  },
+  {
+    "c": 1,
+    "title": "Nervios vagos",
+    "type": "match",
+    "prompt": "Relaciona el nervio con la cara del esófago al atravesar el diafragma.",
+    "data": [
+      [
+        "Vago izquierdo",
+        "Cara anterior"
+      ],
+      [
+        "Vago derecho",
+        "Cara posterior"
+      ]
+    ],
+    "tip": "",
+    "slide": 16
+  },
+  {
+    "c": 1,
+    "title": "Vascularización por regiones",
+    "type": "arrows",
+    "prompt": "Une con flechas cada estructura con la relación anatómica que le corresponde. Selecciona primero un elemento izquierdo y después su pareja derecha.",
+    "data": [
+      [
+        "Cuello",
+        "Tiroideas inferiores"
+      ],
+      [
+        "Tórax",
+        "Ramas de la aorta torácica y bronquiales"
+      ],
+      [
+        "Abdomen",
+        "Frénicas inferiores y gástrica izquierda"
+      ]
+    ],
+    "tip": "",
+    "slide": null
+  },
+  {
+    "c": 1,
+    "title": "Drenaje venoso",
+    "type": "match",
+    "prompt": "Relaciona cada porción con el drenaje venoso descrito.",
+    "data": [
+      [
+        "Cervical",
+        "Venas tiroideas inferiores"
+      ],
+      [
+        "Torácica",
+        "Sistema ácigos"
+      ],
+      [
+        "Abdominal",
+        "Vena gástrica izquierda / sistema porta"
+      ]
+    ],
+    "tip": "",
+    "slide": null
+  },
+  {
+    "c": 1,
+    "title": "Capas esofágicas",
+    "type": "order",
+    "prompt": "Ordena de afuera hacia la luz del esófago.",
+    "data": [
+      "Adventicia",
+      "Muscular externa",
+      "Submucosa",
+      "Mucosa"
+    ],
+    "tip": "",
+    "slide": null
+  },
+  {
+    "c": 1,
+    "title": "Hiato esofágico",
+    "type": "quiz",
+    "prompt": "Un endoscopista localiza el estrechamiento producido por el paso del esófago a través del diafragma. ¿A qué nivel se encuentra el hiato esofágico?",
+    "data": [
+      "T10",
+      "C6",
+      "T4",
+      "L4"
+    ],
+    "tip": "",
+    "slide": null
+  },
+  {
+    "c": 1,
+    "title": "Esófago abdominal",
+    "type": "quiz",
+    "prompt": "En la porción abdominal del esófago, ¿qué órgano oculta parcialmente este segmento en la descripción anatómica de clase?",
+    "data": [
+      "Lóbulo izquierdo del hígado",
+      "Bazo",
+      "Riñón derecho",
+      "Colon sigmoide"
+    ],
+    "tip": "",
+    "slide": null
+  },
+  {
+    "c": 1,
+    "title": "Conexión faringoesofágica",
+    "type": "order",
+    "prompt": "Ordena las estructuras anatómicas de proximal a distal.",
+    "data": [
+      "Constrictor inferior de la faringe",
+      "Esófago cervical",
+      "Esófago torácico",
+      "Cardias"
+    ],
+    "tip": "",
+    "slide": 4,
+    "imageUrl": "/images/1-4.jpg"
+  },
+  {
+    "c": 2,
+    "title": "Nueve regiones abdominales",
+    "type": "arrows",
+    "prompt": "Une con flechas cada estructura con la relación anatómica que le corresponde. Selecciona primero un elemento izquierdo y después su pareja derecha.",
+    "data": [
+      [
+        "Epigastrio",
+        "Superior y central"
+      ],
+      [
+        "Región umbilical",
+        "Media y central"
+      ],
+      [
+        "Hipogastrio",
+        "Inferior y central"
+      ],
+      [
+        "Hipocondrio derecho",
+        "Superior derecha del paciente"
+      ]
+    ],
+    "tip": "",
+    "slide": 5,
+    "imageUrl": "/images/2-5.jpg"
+  },
+  {
+    "c": 2,
+    "title": "Regiones laterales",
+    "type": "match",
+    "prompt": "Relaciona cada región con su nivel.",
+    "data": [
+      [
+        "Hipocondrios",
+        "Fila superior"
+      ],
+      [
+        "Flancos",
+        "Fila media"
+      ],
+      [
+        "Regiones inguinales",
+        "Fila inferior"
+      ]
+    ],
+    "tip": "",
+    "slide": 6,
+    "imageUrl": "/images/2-6.jpg"
+  },
+  {
+    "c": 2,
+    "title": "Paredes abdominopelvianas",
+    "type": "arrows",
+    "prompt": "Une con flechas cada estructura con la relación anatómica que le corresponde. Selecciona primero un elemento izquierdo y después su pareja derecha.",
+    "data": [
+      [
+        "Superior",
+        "Diafragma"
+      ],
+      [
+        "Inferior",
+        "Diafragma pélvico"
+      ],
+      [
+        "Posterior",
+        "Columna vertebral y músculos psoas"
+      ],
+      [
+        "Anterior",
+        "Músculos rectos y anchos abdominales"
+      ]
+    ],
+    "tip": "",
+    "slide": 11,
+    "imageUrl": "/images/2-11.jpg"
+  },
+  {
+    "c": 2,
+    "title": "Peritoneo",
+    "type": "arrows",
+    "prompt": "Une con flechas cada estructura con la relación anatómica que le corresponde. Selecciona primero un elemento izquierdo y después su pareja derecha.",
+    "data": [
+      [
+        "Parietal",
+        "Tapiza la pared abdominopelviana"
+      ],
+      [
+        "Visceral",
+        "Recubre órganos abdominales"
+      ],
+      [
+        "Cavidad peritoneal",
+        "Espacio potencial entre ambas hojas"
+      ]
+    ],
+    "tip": "",
+    "slide": 13,
+    "imageUrl": "/images/2-13.jpg"
+  },
+  {
+    "c": 2,
+    "title": "Formaciones peritoneales",
+    "type": "match",
+    "prompt": "Distingue estas formaciones.",
+    "data": [
+      [
+        "Meso",
+        "Conecta víscera con pared y conduce vasos"
+      ],
+      [
+        "Omento",
+        "Pliegue que conecta vísceras vecinas"
+      ],
+      [
+        "Ligamento peritoneal",
+        "Pliegue sin raíz vasculonerviosa importante"
+      ]
+    ],
+    "tip": "",
+    "slide": 18,
+    "imageUrl": "/images/2-18.jpg"
+  },
+  {
+    "c": 2,
+    "title": "Organización de un meso",
+    "type": "order",
+    "prompt": "Ordena la secuencia conceptual desde la pared hasta la víscera.",
+    "data": [
+      "Pared abdominal",
+      "Raíz del meso",
+      "Hojas del meso",
+      "Víscera"
+    ],
+    "tip": "",
+    "slide": 19
+  },
+  {
+    "c": 2,
+    "title": "Fascias de coalescencia",
+    "type": "quiz",
+    "prompt": "Durante la disección se identifica una fascia de coalescencia. ¿Qué mecanismo explica su formación?",
+    "data": [
+      "Adherencia de hojas peritoneales",
+      "Osificación del mesenterio",
+      "Contracción del diafragma",
+      "Anastomosis de arterias"
+    ],
+    "tip": "",
+    "slide": null
+  },
+  {
+    "c": 2,
+    "title": "Mesocolon transverso",
+    "type": "quiz",
+    "prompt": "Se desea identificar el pliegue que divide el compartimiento supracólico del infracólico. ¿Qué estructura corresponde?",
+    "data": [
+      "Mesocolon transverso",
+      "Ligamento inguinal",
+      "Músculo psoas",
+      "Ligamento redondo del hígado"
+    ],
+    "tip": "",
+    "slide": null
+  },
+  {
+    "c": 2,
+    "title": "Regiones supra e infracólica",
+    "type": "order",
+    "prompt": "Ordena estas referencias de superior a inferior.",
+    "data": [
+      "Región supracólica",
+      "Mesocolon transverso",
+      "Región infracólica"
+    ],
+    "tip": "",
+    "slide": 26,
+    "imageUrl": "/images/2-26.jpg"
+  },
+  {
+    "c": 2,
+    "title": "Receso subhepático",
+    "type": "quiz",
+    "prompt": "En el estudio de los espacios peritoneales se explora el receso subhepático. ¿Qué localización corresponde a este espacio según el material?",
+    "data": [
+      "Entre hígado, colon transverso y pared abdominal anterior",
+      "Detrás del corazón",
+      "Dentro del mediastino",
+      "Entre ambos pulmones"
+    ],
+    "tip": "",
+    "slide": null
+  },
+  {
+    "c": 2,
+    "title": "Límites de la cavidad",
+    "type": "quiz",
+    "prompt": "Para delimitar la pared superior de la cavidad abdominal durante una disección, ¿qué estructura se identifica?",
+    "data": [
+      "Diafragma",
+      "Diafragma pélvico",
+      "Ligamento inguinal",
+      "Sínfisis púbica"
+    ],
+    "tip": "",
+    "slide": null
+  },
+  {
+    "c": 2,
+    "title": "Relaciones abdominales",
+    "type": "arrows",
+    "prompt": "Une con flechas cada estructura con la relación anatómica que le corresponde. Selecciona primero un elemento izquierdo y después su pareja derecha.",
+    "data": [
+      [
+        "Hígado",
+        "Predomina en el abdomen superior derecho"
+      ],
+      [
+        "Estómago",
+        "Predomina en el abdomen superior izquierdo"
+      ],
+      [
+        "Vejiga urinaria",
+        "Región inferior media / pelvis"
+      ]
+    ],
+    "tip": "",
+    "slide": 6,
+    "imageUrl": "/images/2-6.jpg"
+  }
+]

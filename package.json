@@ -1,0 +1,1 @@
+{"name":"digestivo-quest-multijugador","version":"1.0.0","private":true,"description":"Sala de trivia multijugador con pulsadores, rebotes y corrección en servidor","scripts":{"start":"node server.js"},"engines":{"node":">=20"},"dependencies":{"ws":"^8.18.0"}}
